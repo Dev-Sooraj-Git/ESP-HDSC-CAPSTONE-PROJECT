@@ -28,7 +28,7 @@ def predict_in_cost(country_label, Sc_converter):
 
 rad =st.sidebar.radio("Navigation",["Home","About Us"])
 def main():
-    st.title("Electrical Supply Prediction")
+    st.title("Electricity Supply Prediction")
     #html_temp = """
     # <div style="background-color:tomato;padding:5px">
     # <h2 style="color:white;text-align:center;"> GLOBAL HOUSEHOLD ELECTRIFICATION PREDICTION ML APP </h2>
